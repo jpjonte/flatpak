@@ -2,7 +2,7 @@
 Title=jpj.dev Nightly Flatpak Repo
 Url=https://jpjonte.github.io/flatpak/nightly
 Homepage=https://jpj.dev
-Comment=Nightly Flatpak Repo for NESd and other projects
+Comment=jpj.dev Nightly Flatpaks
 Description=Nightly Flatpak Repo for the NES emulator NESd and other projects
 Icon=https://github.com/jpjonte/NESd/raw/main/assets/logo.svg
 GPGKey=mDMEZ+OU7xYJKwYBBAHaRw8BAQdAj+M2L0LBZdq6HWDt5Z+mg8ofS3I0w7qKE67gM3Y3hEK0F2ZsYXRwYWstbmlnaHRseUBqcGouZGV2iJkEExYKAEEWIQST3HxljMvrAd3rn/GdV1yoPcozCQUCZ+OU7wIbAwUJBaOagAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRCdV1yoPcozCY/MAPkB9eqb1K60hVkv9KemTy5qBF//vkVhI4X3/lFqLvQETgD7B8XOSkcc/tHoJSTpwuo/kktZa7MppO/AxiAd9Kulzgi4OARn45TvEgorBgEEAZdVAQUBAQdAJy7asYhHGAaF4HBvV4xxYqoMSda6R7R90r2t/Eeue34DAQgHiHgEGBYKACAWIQST3HxljMvrAd3rn/GdV1yoPcozCQUCZ+OU7wIbDAAKCRCdV1yoPcozCeypAP496Z00YV5v8IVZuQ6kueg2solK4VrPbx0D2Vt2ICcnpAD/Xp4odrqQhohy+BjFQhbcivlxpR1ABX/BVVUde7DdcgY=
