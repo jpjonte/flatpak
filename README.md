@@ -4,5 +4,5 @@
 
 [jpj.dev Nightly Flatpak Repo](jpj-nightly.flatpakrepo)
 
-[NESd nightly](NESd-nightly.flatpakref)
+[NESd dev](NESd-nightly.flatpakref): nightly builds as `dev.jpj.NESd.dev`, installable next to the stable `dev.jpj.NESd`
 
